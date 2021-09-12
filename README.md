@@ -4,4 +4,4 @@ This is a replica of crosh, the secret shell on Chrome OS and its open-source tw
 
 ## __License__
 
-GPL v3.0
+[GPL v3.0](https://github.com/Zachary-Rude/crosh/blob/master/LICENSE.txt)
